@@ -13,8 +13,8 @@ export class HomeComponent implements OnInit {
       icon: 'home',
       routeUrl: ''
     }
-    
-   }
+
+  }
 
   ngOnInit(): void { }
 }
